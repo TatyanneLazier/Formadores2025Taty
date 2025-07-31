@@ -46,6 +46,8 @@ p {
 }
 
 .categoria-videos img {
+    display: flex;
+    overflow-x: auto;
     opacity: 0.5;
     height: 200px;
 }
